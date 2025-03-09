@@ -1,0 +1,28 @@
+[
+  {
+    "pos": { "x": 150, "y": -100 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Data Scientist Intern",
+      "description": "During my internship at \\Cognitive Generation Enterprises\\, I integrated databases like PostgreSQL, MySQL, and Oracle into the existing system, contributed to R&D, and optimized cloud deployments on Azure.",
+      "company": {
+        "name": "\\Cognitive Generation Enterprises",
+        "startDate": "2024",
+        "endDate": "Present"
+      }
+    }
+  },
+  {
+    "pos": { "x": 150, "y": 180 },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Technical Lead For GDSC TSEC",
+      "description": "As the AI/ML Lead at \\GDSC TSEC\\, I organized hackathons, led the AI/ML event, and mentored students in real-world ML applications while driving community and technical initiatives.",
+      "company": {
+        "name": "\\GDSC TSEC",
+        "startDate": "2023",
+        "endDate": "2024"
+      }
+    }
+  }
+]

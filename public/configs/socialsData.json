@@ -1,0 +1,52 @@
+[
+  {
+    "pos": { "x": 300, "y": 250 },
+    "name": "GitHub",
+    "description": "GitHub is where I host my projects.",
+    "link": "https://github.com/varunputta1511",
+    "logoData": { "name": "github-logo", "width": 228.6, "height": 179.5 }
+  },
+  {
+    "pos": { "x": 500, "y": 250 },
+    "name": "Resume",
+    "description": "This is My Resume.",
+    "link": "https://drive.google.com/file/d/1EGT2FQ9mqf5sOBBd-NTItYinrLB0hhir/view?usp=sharing",
+    "logoData": {
+      "name": "youtube-logo",
+      "width": 160,
+      "height": 110
+    }
+  },
+  {
+    "pos": { "x": 700, "y": 250 },
+    "name": "X",
+    "description": "Here is my X/Twitter, I don't really use it much.",
+    "link": "https://x.com/thevarunputta",
+    "logoData": {
+      "name": "x-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 900, "y": 250 },
+    "name": "LinkedIn",
+    "description": "I post my achivements and qualifications there.",
+    "link": "https://www.linkedin.com/in/varunputta/",
+    "logoData": {
+      "name": "linkedin-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1100, "y": 250 },
+    "name": "Email",
+    "address": "varunputta1511@gmail.com",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

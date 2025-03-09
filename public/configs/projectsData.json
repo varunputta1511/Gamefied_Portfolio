@@ -1,0 +1,59 @@
+[
+  {
+    "pos": { "x": 0, "y": 350 },
+    "thumbnail": "sonic-js",
+    "data": {
+      "title": "Gamified portfolio made for DevFolio 25",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "#"
+        },
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/varunputta1511?tab=repositories"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 840 },
+    "thumbnail": "kirby-ts",
+    "data": {
+      "title": "AI/NLP TV Series Analysis with Hugging Face & Python",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "#"
+        },
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/varunputta1511?tab=repositories"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1320 },
+    "thumbnail": "platformer-js",
+    "data": {
+      "title": "Market Intelligence Dashboard made for IES Hackthon2.0 in 3 hours(won that hackathon)",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "#"
+        },
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/varunputta1511?tab=repositories"
+        }
+      ]
+    }
+  }
+]
